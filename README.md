@@ -1,1 +1,1 @@
-# shastra.github.io
+# Shastra.io
