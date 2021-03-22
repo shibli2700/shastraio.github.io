@@ -1,0 +1,52 @@
+body{
+    background: #0F1114;
+}
+h1{
+    color: #fff;
+    font-family: 'Spartan', sans-serif;
+    font-weight: bold;
+    font-size: 3.5em;
+    padding: 0.8em 0px 0px 0px;
+}
+p{
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.3em;
+}
+
+.main{
+    padding: 2em 0;
+}
+
+.card{
+    background: transparent;
+    color: #fff;
+    border: 1px solid #283C5B;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 0.8em;
+    margin: 0 0.8em 0 0;
+}
+
+.card-header{
+    border-bottom: 1px solid #283C5B;
+}
+
+.card p{
+    color:#fff;
+    
+}
+
+.card img{
+    width: 100%;
+}
+
+.body-wrapper{
+    max-width: 1250px;
+    width: 100%;
+    margin: auto;
+}
+
+.btn-outline-primary{
+    color: #fff;
+    border-color: #fff;
+}
